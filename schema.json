@@ -1,0 +1,222 @@
+{
+  "sync_version": 3,
+  "sync": [
+    {
+      "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/CWKBEIsY/AdvancementPlaques-26.3-fabric-1.7.3.jar",
+      "name": "AdvancementPlaques-26.3-fabric-1.7.3",
+      "version": "CWKBEIsY",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Rpue6AYp/AmbientSounds_FABRIC_v6.3.6_mc26.3.jar",
+      "name": "AmbientSounds_FABRIC_v6.3.6_mc26.3",
+      "version": "Rpue6AYp",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/S4ySWowR/better-clouds-1.15.0-beta.3%2B26.3-fabric.jar",
+      "name": "better-clouds-1.15.0-beta.3+26.3-fabric",
+      "version": "S4ySWowR",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/fg2uyxOW/cloth-config-fabric-26.3.159.jar",
+      "name": "cloth-config-fabric-26.3.159",
+      "version": "fg2uyxOW",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/Jt2sCWTQ/continuity-3.0.1%2B26.3.jar",
+      "name": "continuity-3.0.1+26.3",
+      "version": "Jt2sCWTQ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/DOUdJVEm/versions/fo76vL20/controlify-3.5.3%2Bmc26.3-universal.jar",
+      "name": "controlify-3.5.3+mc26.3-universal",
+      "version": "fo76vL20",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/cBV3NfW1/CreativeCore_FABRIC_v2.14.16_mc26.3.jar",
+      "name": "CreativeCore_FABRIC_v2.14.16_mc26.3",
+      "version": "cBV3NfW1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwq069rR/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar",
+      "name": "dynamic-fps-3.11.10+minecraft-26.3.0-fabric",
+      "version": "Jwq069rR",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/kdDVwkgV/entity_model_features-3.3.8-26.3-fabric.jar",
+      "name": "entity_model_features-3.3.8-26.3-fabric",
+      "version": "kdDVwkgV",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/Hs3N31ud/entity_texture_features-7.2.4-26.3-fabric.jar",
+      "name": "entity_texture_features-7.2.4-26.3-fabric",
+      "version": "Hs3N31ud",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/F4loCvYt/entityculling-fabric-1.11.2-mc26.3.jar",
+      "name": "entityculling-fabric-1.11.2-mc26.3",
+      "version": "F4loCvYt",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bNnaTiuM/fabric-api-0.161.0%2B26.3.jar",
+      "name": "fabric-api-0.161.0+26.3",
+      "version": "bNnaTiuM",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/eRRZzGMc/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+      "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20",
+      "version": "eRRZzGMc",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/ncKjyGm3/versions/5cIfIuXg/fadeless-2.0.9-26.3.jar",
+      "name": "fadeless-2.0.9-26.3",
+      "version": "5cIfIuXg",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/WhbRG4iK/versions/5i0SxXxj/fallingleaves-2.0.8%2B26.3.jar",
+      "name": "fallingleaves-2.0.8+26.3",
+      "version": "5i0SxXxj",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/N6hOHbOO/fast-ip-ping-v1.0.12-mc26.3.jar",
+      "name": "fast-ip-ping-v1.0.12-mc26.3",
+      "version": "N6hOHbOO",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/zhVGUJyW/Iceberg-26.3-fabric-1.4.3.1.jar",
+      "name": "Iceberg-26.3-fabric-1.4.3.1",
+      "version": "zhVGUJyW",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/3MP9UR23/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar",
+      "name": "ImmediatelyFast-Fabric-1.17.1+26.3",
+      "version": "3MP9UR23",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAdKrpw8/iris-fabric-1.11.6%2Bmc26.3.jar",
+      "name": "iris-fabric-1.11.6+mc26.3",
+      "version": "bAdKrpw8",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/rylKnJ4M/lambdynamiclights-4.13.0%2B26.3.jar",
+      "name": "lambdynamiclights-4.13.0+26.3",
+      "version": "rylKnJ4M",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/pa9cAfYg/modernfix-5.27.20-build.2.jar",
+      "name": "modernfix-5.27.20-build.2",
+      "version": "pa9cAfYg",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
+      "name": "modmenu-21.0.0",
+      "version": "kyy7dbrZ",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/EhSk2OTD/notenoughanimations-fabric-1.12.6-mc26.3.jar",
+      "name": "notenoughanimations-fabric-1.12.6-mc26.3",
+      "version": "EhSk2OTD",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/wcSV1VD1/optigui-2.3.0-beta.10%2B26.3.jar",
+      "name": "optigui-2.3.0-beta.10+26.3",
+      "version": "wcSV1VD1",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/lXytLqWj/placeholder-api-3.2.0%2B26.3.jar",
+      "name": "placeholder-api-3.2.0+26.3",
+      "version": "lXytLqWj",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/UUNiN7Tm/PresenceFootsteps-1.14.0%2B26.3.jar",
+      "name": "PresenceFootsteps-1.14.0+26.3",
+      "version": "UUNiN7Tm",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/8IFHiuMI/versions/AVuvo48S/simplemodsync-fabric-26.3-1.4.1.jar",
+      "name": "simplemodsync-fabric-26.3-1.4.1",
+      "version": "AVuvo48S",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/G8BCRxv5/skinlayers3d-fabric-1.11.3-mc26.3.jar",
+      "name": "skinlayers3d-fabric-1.11.3-mc26.3",
+      "version": "G8BCRxv5",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/DWuwk8aA/versions/LSewIGOo/skyboxify-3.4%2B26.3-fabric.jar",
+      "name": "skyboxify-3.4+26.3-fabric",
+      "version": "LSewIGOo",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/te2y9qZn/sodium-extra-fabric-0.9.4%2Bmc26.3.jar",
+      "name": "sodium-extra-fabric-0.9.4+mc26.3",
+      "version": "te2y9qZn",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar",
+      "name": "sodium-fabric-0.9.2+mc26.3",
+      "version": "bAZQdGpg",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/9loJgQlO/sound-physics-remastered-fabric-1.5.1%2B26.3.jar",
+      "name": "sound-physics-remastered-fabric-1.5.1+26.3",
+      "version": "9loJgQlO",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/BNe9kpJ7/visuality-0.7.15%2B26.3.jar",
+      "name": "visuality-0.7.15+26.3",
+      "version": "BNe9kpJ7",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/OLnMVWXy/voicechat-fabric-2.6.24%2B26.3.jar",
+      "name": "voicechat-fabric-2.6.24+26.3",
+      "version": "OLnMVWXy",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
+      "name": "yet_another_config_lib_v3-3.9.7+26.3-fabric",
+      "version": "s9SjoFu1",
+      "type": "mod"
+    },
+    {
+      "url": "https://bouncemonster.github.io/simundis-pack/basics.zip",
+      "name": "Simundis pinned server list",
+      "version": "d1f4eaa9b6f25e27e03134bbce81d606ee6fb409",
+      "type": "packed",
+      "directory": "."
+    }
+  ]
+}
