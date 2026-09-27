@@ -44,6 +44,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gfi11b05/DistantHorizons-3.3.2-26.3-fabric-neoforge.jar",
+      "name": "DistantHorizons-3.3.2-26.3-fabric-neoforge",
+      "version": "gfi11b05",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwq069rR/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar",
       "name": "dynamic-fps-3.11.10+minecraft-26.3.0-fabric",
       "version": "Jwq069rR",
@@ -134,6 +140,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/51shyZVL/versions/zL2UEFXS/moreculling-fabric-26.3-1.9.0-beta.1.jar",
+      "name": "moreculling-fabric-26.3-1.9.0-beta.1",
+      "version": "zL2UEFXS",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/EhSk2OTD/notenoughanimations-fabric-1.12.6-mc26.3.jar",
       "name": "notenoughanimations-fabric-1.12.6-mc26.3",
       "version": "EhSk2OTD",
@@ -161,6 +173,12 @@
       "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/UUNiN7Tm/PresenceFootsteps-1.14.0%2B26.3.jar",
       "name": "PresenceFootsteps-1.14.0+26.3",
       "version": "UUNiN7Tm",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/EfchygKx/reeses-sodium-options-fabric-2.2.5%2Bmc26.3.jar",
+      "name": "reeses-sodium-options-fabric-2.2.5+mc26.3",
+      "version": "EfchygKx",
       "type": "mod"
     },
     {
@@ -220,7 +238,7 @@
     {
       "url": "https://bouncemonster.github.io/simundis-pack/basics.zip",
       "name": "Simundis pinned server list",
-      "version": "4ef262a6a2ab09a7f5924f8c71657285b8115ea1",
+      "version": "82f433ac98b366d4525e6391a66736c7f63ae749",
       "type": "packed",
       "directory": "."
     }
