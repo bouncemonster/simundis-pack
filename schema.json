@@ -140,6 +140,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/wNhugV7Z/versions/RFvo2Cij/npc2-0.3.1-alpha%2B26.3.jar",
+      "name": "npc2-0.3.1-alpha+26.3",
+      "version": "RFvo2Cij",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/wcSV1VD1/optigui-2.3.0-beta.10%2B26.3.jar",
       "name": "optigui-2.3.0-beta.10+26.3",
       "version": "wcSV1VD1",
@@ -214,7 +220,7 @@
     {
       "url": "https://bouncemonster.github.io/simundis-pack/basics.zip",
       "name": "Simundis pinned server list",
-      "version": "b8b5b885e10a6fa35d63d93fb4f22654d904071d",
+      "version": "5945da7cd44cb0c24fee1f2390d656ffa73a9e2c",
       "type": "packed",
       "directory": "."
     }
