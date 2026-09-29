@@ -44,9 +44,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/cBV3NfW1/CreativeCore_FABRIC_v2.14.16_mc26.3.jar",
-      "name": "CreativeCore_FABRIC_v2.14.16_mc26.3",
-      "version": "cBV3NfW1",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/VO7NZXF8/CreativeCore_FABRIC_v2.14.18_mc26.3.jar",
+      "name": "CreativeCore_FABRIC_v2.14.18_mc26.3",
+      "version": "VO7NZXF8",
       "type": "mod"
     },
     {
@@ -256,7 +256,7 @@
     {
       "url": "https://bouncemonster.github.io/simundis-pack/basics.zip",
       "name": "Simundis pinned server list",
-      "version": "31447155be8f54260cab244360c9b219efff9ccd",
+      "version": "42adda67564934c18d45f1817cca67abfb5ba3d6",
       "type": "packed",
       "directory": "."
     }
