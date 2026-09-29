@@ -14,9 +14,15 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/S4ySWowR/better-clouds-1.15.0-beta.3%2B26.3-fabric.jar",
-      "name": "better-clouds-1.15.0-beta.3+26.3-fabric",
-      "version": "S4ySWowR",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/gAI51C1M/architectury-fabric-22.0.3.jar",
+      "name": "architectury-fabric-22.0.3",
+      "version": "gAI51C1M",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/5srFLIaK/versions/zLlQcx3w/better-clouds-1.15.0-beta.4%2B26.3-fabric.jar",
+      "name": "better-clouds-1.15.0-beta.4+26.3-fabric",
+      "version": "zLlQcx3w",
       "type": "mod"
     },
     {
@@ -44,15 +50,21 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/gfi11b05/DistantHorizons-3.3.2-26.3-fabric-neoforge.jar",
-      "name": "DistantHorizons-3.3.2-26.3-fabric-neoforge",
-      "version": "gfi11b05",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/TGgEbP9A/DistantHorizons-3.3.4-26.3-fabric-neoforge.jar",
+      "name": "DistantHorizons-3.3.4-26.3-fabric-neoforge",
+      "version": "TGgEbP9A",
       "type": "mod"
     },
     {
       "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwq069rR/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar",
       "name": "dynamic-fps-3.11.10+minecraft-26.3.0-fabric",
       "version": "Jwq069rR",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/H4o5bO7g/versions/Zj5Utqg0/economycraft-fabric-1.10.0_26.3.jar",
+      "name": "economycraft-fabric-1.10.0_26.3",
+      "version": "Zj5Utqg0",
       "type": "mod"
     },
     {
@@ -238,7 +250,7 @@
     {
       "url": "https://bouncemonster.github.io/simundis-pack/basics.zip",
       "name": "Simundis pinned server list",
-      "version": "713bbe1217738581564d47bb288ed699df686bd5",
+      "version": "79292ee91ef801764e03283201f778b2aa2ea77f",
       "type": "packed",
       "directory": "."
     }
