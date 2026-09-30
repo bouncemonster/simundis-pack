@@ -44,6 +44,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/iDyqnQLT/versions/K9R06E1l/coolrain-1.4.0-26.3.jar",
+      "name": "coolrain-1.4.0-26.3",
+      "version": "K9R06E1l",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/VO7NZXF8/CreativeCore_FABRIC_v2.14.18_mc26.3.jar",
       "name": "CreativeCore_FABRIC_v2.14.18_mc26.3",
       "version": "VO7NZXF8",
@@ -65,6 +71,12 @@
       "url": "https://cdn.modrinth.com/data/H4o5bO7g/versions/Zj5Utqg0/economycraft-fabric-1.10.0_26.3.jar",
       "name": "economycraft-fabric-1.10.0_26.3",
       "version": "Zj5Utqg0",
+      "type": "mod"
+    },
+    {
+      "url": "https://cdn.modrinth.com/data/dWMHBEAQ/versions/VWvtBt3R/elytratrails-1.6.6-26.3.jar",
+      "name": "elytratrails-1.6.6-26.3",
+      "version": "VWvtBt3R",
       "type": "mod"
     },
     {
@@ -134,9 +146,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAdKrpw8/iris-fabric-1.11.6%2Bmc26.3.jar",
-      "name": "iris-fabric-1.11.6+mc26.3",
-      "version": "bAdKrpw8",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar",
+      "name": "iris-fabric-1.11.7+mc26.3",
+      "version": "vTN4NRGW",
       "type": "mod"
     },
     {
@@ -236,6 +248,12 @@
       "type": "mod"
     },
     {
+      "url": "https://cdn.modrinth.com/data/DuLLpiOt/versions/zsvTFeG0/trails-1.0.4.jar",
+      "name": "trails-1.0.4",
+      "version": "zsvTFeG0",
+      "type": "mod"
+    },
+    {
       "url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/BNe9kpJ7/visuality-0.7.15%2B26.3.jar",
       "name": "visuality-0.7.15+26.3",
       "version": "BNe9kpJ7",
@@ -256,7 +274,7 @@
     {
       "url": "https://bouncemonster.github.io/simundis-pack/basics.zip",
       "name": "Simundis pinned server list",
-      "version": "42adda67564934c18d45f1817cca67abfb5ba3d6",
+      "version": "51096242514462ddc1ae10b3d33ce34a072cbd31",
       "type": "packed",
       "directory": "."
     }
