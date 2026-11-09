@@ -6,7 +6,7 @@
 
 Modpack import · Versioned mod synchronization · Generated release artifacts
 
-[Get the modpack](../Simundis.mrpack?raw=1) · [Sync manifest](../schema.json) · [Companion archive](../basics.zip?raw=1)
+[Get the modpack](../Simundis.mrpack?raw=1) · [Sync manifest](../schema.json) · [Companion archive](../basics.zip?raw=1) · [Minecraft server guide](https://simundis.com/en/minecraft/)
 
 </div>
 
@@ -29,7 +29,7 @@ This repository distributes the **Simundis client pack**. It contains the packag
 
 Download the `.mrpack` artifact and import it as a **separate launcher instance**. Review the launcher's requested game and loader versions, let it obtain the declared dependencies, then launch the new instance. Keep existing saves and custom configurations backed up before replacing or migrating another instance.
 
-A repository download is not a Minecraft account, game entitlement or server-access grant. Server connection details are deliberately not invented here.
+To join the invite-only Simundis Minecraft server on Hostman, follow the [current Minecraft Java guide](https://simundis.com/en/minecraft/). Use the server address shown in the player panel after sign-in. The pack can contain a saved entry from an earlier setup.
 
 ## How the distribution is maintained
 
@@ -58,5 +58,7 @@ Included mods and downloaded dependencies retain their own licenses. The presenc
 ### По-русски
 
 Это репозиторий **клиентской сборки Simundis**, а не исходный код сервера. Для установки скачайте `Simundis.mrpack` и импортируйте его в отдельный экземпляр игры через совместимый лаунчер. `schema.json` описывает синхронизируемые моды, `basics.zip` — дополнительный архив публикации. Не смешивайте версии сборки и не заменяйте существующие сохранения без резервной копии.
+
+Для входа на сервер на Hostman воспользуйтесь [актуальной инструкцией Minecraft Java](https://simundis.com/minecraft/). В игре используйте адрес из панели игроков: сохранённый адрес в сборке может относиться к прежней настройке.
 
 Файлы сборки генерируются процессом публикации. Описание вынесено отдельно, чтобы не перезаписывать автоматически создаваемый README и не вмешиваться в состав модов.
