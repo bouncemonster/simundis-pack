@@ -31,6 +31,8 @@ Download the `.mrpack` artifact and import it as a **separate launcher instance*
 
 To join the invite-only Simundis Minecraft server on Hostman, follow the [current Minecraft Java guide](https://simundis.com/en/minecraft/). Use the server address shown in the player panel after sign-in. The pack can contain a saved entry from an earlier setup.
 
+The initial import supplies the Simundis server bookmark. The current Simple Mod Sync manifest updates only the reviewed mods; it does not unpack a replacement server list or settings over an existing instance. Your additional server bookmarks, worlds and preferences remain yours to manage. The companion archive is an optional initial download, not an automatic update.
+
 ## How the distribution is maintained
 
 ```text
@@ -60,5 +62,7 @@ Included mods and downloaded dependencies retain their own licenses. The presenc
 Это репозиторий **клиентской сборки Simundis**, а не исходный код сервера. Для установки скачайте `Simundis.mrpack` и импортируйте его в отдельный экземпляр игры через совместимый лаунчер. `schema.json` описывает синхронизируемые моды, `basics.zip` — дополнительный архив публикации. Не смешивайте версии сборки и не заменяйте существующие сохранения без резервной копии.
 
 Для входа на сервер на Hostman воспользуйтесь [актуальной инструкцией Minecraft Java](https://simundis.com/minecraft/). В игре используйте адрес из панели игроков: сохранённый адрес в сборке может относиться к прежней настройке.
+
+При первом импорте сборка добавляет сервер Simundis. Последующие обновления через Simple Mod Sync меняют только проверенный набор модов: список серверов и личные настройки не распаковываются поверх существующего экземпляра. Дополнительный архив предназначен для первоначальной установки и не применяется автоматически.
 
 Файлы сборки генерируются процессом публикации. Описание вынесено отдельно, чтобы не перезаписывать автоматически создаваемый README и не вмешиваться в состав модов.
