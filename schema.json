@@ -170,9 +170,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/35ZJ5hlX/naturalist-2.0.6-fabric-26.3.jar",
-      "name": "naturalist-2.0.6-fabric-26.3",
-      "version": "35ZJ5hlX",
+      "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/4SzCjLeS/naturalist-2.0.7-fabric-26.3.jar",
+      "name": "naturalist-2.0.7-fabric-26.3",
+      "version": "4SzCjLeS",
       "type": "mod"
     },
     {
@@ -200,9 +200,9 @@
       "type": "mod"
     },
     {
-      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/GGxJ0JAt/reeses-sodium-options-fabric-2.2.6-beta.1%2Bmc26.3.jar",
-      "name": "reeses-sodium-options-fabric-2.2.6-beta.1+mc26.3",
-      "version": "GGxJ0JAt",
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/EfchygKx/reeses-sodium-options-fabric-2.2.5%2Bmc26.3.jar",
+      "name": "reeses-sodium-options-fabric-2.2.5+mc26.3",
+      "version": "EfchygKx",
       "type": "mod"
     },
     {
@@ -280,7 +280,7 @@
     {
       "url": "https://bouncemonster.github.io/simundis-pack/basics.zip",
       "name": "Simundis pinned server list",
-      "version": "6957ad0ac7983f05c7d5c8b0157ca7234de06121",
+      "version": "790bfda4d33c6484c633368fe2785723104a4847",
       "type": "packed",
       "directory": "."
     }
