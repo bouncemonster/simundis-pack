@@ -66,3 +66,9 @@ Included mods and downloaded dependencies retain their own licenses. The presenc
 При первом импорте сборка добавляет сервер Simundis. Последующие обновления через Simple Mod Sync меняют только проверенный набор модов: список серверов и личные настройки не распаковываются поверх существующего экземпляра. Дополнительный архив предназначен для первоначальной установки и не применяется автоматически.
 
 Файлы сборки генерируются процессом публикации. Описание вынесено отдельно, чтобы не перезаписывать автоматически создаваемый README и не вмешиваться в состав модов.
+
+## Shared game-library architecture
+
+Simundis is being developed as a shared library of persistent game worlds for groups starting at four players, with one active game world per group. The current Moonsugar Space phase is for friends and does not charge players; a paid Simundis service is a future stage. Each player still needs the licences required by the selected game.
+
+The target design binds each save to exact game/server, runtime and add-on versions; admits updates only after compatibility and restore checks; supports personal add-ons, resource scaling, reliable backups and separate TeamSpeak or Mumble voice. See the [game-library architecture and roadmap](https://github.com/bouncemonster/simundis-server-ops/blob/main/docs/GAME_LIBRARY_ARCHITECTURE.md). This is the shared product direction; this repository's component documentation and acceptance records establish its current capabilities.
